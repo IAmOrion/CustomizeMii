@@ -1,8 +1,5 @@
 # CustomizeMii
-<div ng-if="!wikiCtrl.error" class="maia-col-10 ng-scope">
-          <hr>
-
-          <markdown-widget text="wikiCtrl.wikiContents" class="markdown"><p><strong>CustomizeMii</strong> is a custom channel creator for the Wii.<br>
+<p><strong>CustomizeMii</strong> is a custom channel creator for the Wii.<br>
 The .NET Framework 2.0 is required to run this application!<br>
 <br>
 For any further information, see: http://customizemii.googlecode.com'&gt;<a href="http://customizemii.googlecode.com">http://customizemii.googlecode.com</a><br>
@@ -170,5 +167,5 @@ GNU General Public License for more details.<br>
 You should have received a copy of the GNU General Public License<br>
 along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;'&gt;<a href="http://www.gnu.org/licenses/&amp;gt">http://www.gnu.org/licenses/&amp;gt</a>;.<br></p>
 
-<hr></markdown-widget>
-        </div>
+<hr>
+</div>
