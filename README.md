@@ -2,9 +2,6 @@
 <p><strong>CustomizeMii</strong> is a custom channel creator for the Wii.<br>
 The .NET Framework 2.0 is required to run this application!<br>
 <br>
-For any further information, see: http://customizemii.googlecode.com'&gt;<a href="http://customizemii.googlecode.com">http://customizemii.googlecode.com</a><br>
-Please use the Issue Tracker there to report any occuring bugs.<br>
-<br>
 Thanks to icefire / Xuzz for the basic idea of this Application!<br>
 <br></p>
 
@@ -119,10 +116,9 @@ Thanks to icefire / Xuzz for the basic idea of this Application!<br>
 <h3>Version 1.0</h3>
 
 <ul><li>Initial Release<br>
-<hr>
-<br>
-<hr>
-<h2>Disclaimer:</h2></li></ul>
+  <hr></li></ul>
+
+<h2>Disclaimer:</h2>
 
 <p>Editing WAD files can result in a brick of your Wii.<br>
 Only use this application if you have a bricksafe Wii, meaning either Preloader or<br>
@@ -131,9 +127,7 @@ BootMii/boot2 is installed, and if you know what you're doing.<br>
 This application comes without any express or implied warranty.<br>
 The author can't be held responsible for any damages arising from the use of it.<br>
 </p><hr>
-<br><p></p>
-
-<hr>
+<br>
 
 <h2>Thanks:</h2>
 
@@ -146,9 +140,7 @@ comex and Waninkoko for both their NAND Loader<br>
 djdynamite123 for the forwarder base files<br>
 The USB Loader GX Team for their forwarder source<br>
 </p><hr>
-<br><p></p>
-
-<hr>
+<br>
 
 <h2>License:</h2>
 
